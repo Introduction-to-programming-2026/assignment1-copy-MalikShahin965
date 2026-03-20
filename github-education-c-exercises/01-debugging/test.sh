@@ -17,9 +17,4 @@ done
 echo ""
 echo "✅ All files compile."
 echo "Now run each executable to verify output:"
-echo "  ./buggy0"
-echo "  ./buggy1"
-echo "  ./buggy2"
-echo "  ./buggy3"
-echo "  ./buggy4"
-echo "  ./buggy5"
+run:./test.sh
