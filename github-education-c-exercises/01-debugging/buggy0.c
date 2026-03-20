@@ -1,5 +1,8 @@
-// Missing #include for stdio.h
-int main(void)
+#include <iostream>
+
+int main()
 {
-    printf("hello, world\n");
+    std::cout<<"Hello World";
+
+    return 0;
 }
