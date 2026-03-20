@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void)
+{
+    printf("hello, world\n");
+}
+name: run an online script 
+run: sh ./test1.sh
+echo here is this file
